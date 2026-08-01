@@ -169,8 +169,10 @@ ai-agent-team/
 
 如果这个项目对你有帮助，欢迎 ⭐ Star！
 
-也欢迎请我喝杯奶茶 ☕
+觉得好用想请我喝杯奶茶的话 👇
 
 <p align="center">
-  <img src="https://img.shields.io/badge/微信赞赏-觉得有用就赏-brightgreen?style=flat-square" />
+  <img src="images/sponsor.jpg" width="260" alt="微信赞赏码" />
 </p>
+
+> 💡 赞助完全是自愿的。Star 就是最好的支持！
